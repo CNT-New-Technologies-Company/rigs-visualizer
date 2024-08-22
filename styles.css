@@ -1,0 +1,76 @@
+@font-face {
+  font-family: "Mona-Sans";
+  src: url("fonts/Mona-Sans.ttf");
+}
+
+body {
+  background-color: #fcfcfc;
+  font-family: "Mona-Sans", sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  margin: 10px 0;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.well-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  margin-top: 20px;
+  gap: 10px;
+}
+
+.well {
+  background-color: #f9f9f9;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+}
+
+.well a {
+  color: white;
+  text-decoration: none;
+  background-color: #0fab8a;
+  padding: 10px;
+  display: block;
+  width: 100px;
+  text-align: center;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.well h2 {
+    display: flex;
+    align-items: center;
+}
+
+.well img {
+    width: 80px;
+    margin-right: 5px;
+}
+
+.logo-container {
+    background-color: #333;
+    padding: 5px;
+}
+
+.logo-container img {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+}
