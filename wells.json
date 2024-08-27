@@ -1,6 +1,30 @@
 [
   {
+    "name": "Gersemi",
+    "url": "https://drillit-rig-gersemi.cntnewtechnologies.com/"
+  },
+  {
     "name": "Galar",
     "url": "https://drillit-rig-galar.cntnewtechnologies.com/"
+  },
+  {
+    "name": "CME2",
+    "url": "https://drillit-rig-cme2.cntnewtechnologies.com/"
+  },
+  {
+    "name": "Grid",
+    "url": "https://drillit-rig-grid.cntnewtechnologies.com/"
+  },
+  {
+    "name": "Njord",
+    "url": "https://drillit-rig-njord.cntnewtechnologies.com/"
+  },
+  {
+    "name": "Odin",
+    "url": "https://drillit-rig-odin.cntnewtechnologies.com/"
+  },
+  {
+    "name": "Rig 702",
+    "url": "https://drillit-rig-702.cntnewtechnologies.com/"
   }
 ]
