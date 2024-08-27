@@ -1,5 +1,5 @@
 // Fetch wells.json and render it to the page
-fetch("./wells.json")
+fetch("./rigs.json")
   .then((response) => response.json())
   .then((wells) => {
     const wellList = document.getElementById("well-list");
